@@ -149,7 +149,6 @@
 | Василий Вавилов                    | Разработчик, Душанбе .                  |
 | Дмитрий Скрыльников                | Frontend Developer, Vigo                |
 | Александр Давронов                 | Software Engineer                       |
-| Vadik Sirekanyan                   | Senior Android Developer, Москва        |
 | Станислав Стаценко                 | Программист, МФТИ, Москва               |
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
@@ -177,3 +176,4 @@
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
 | Соломатин Роман                    | Программист, Пермь                      |
+| Кушнарева Екатерина                | HR, Abagy Robotic Systems               |
